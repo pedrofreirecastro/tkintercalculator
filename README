@@ -4,3 +4,6 @@ This repository contains 2 files:
 
 The first file contains the code to the calculator, using TKINTER lib.
 The second file, "setup.py" generates the executable for the calculator and a installation file
+
+Tutorial link: 
+https://www.youtube.com/watch?v=YXPyB4XeYLA
