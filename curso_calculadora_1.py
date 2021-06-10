@@ -1,4 +1,4 @@
-# CURSO YOUTUBE https://www.youtube.com/watch?v=YXPyB4XeYLA #
+# tutorial from freeCodeCamp https://www.youtube.com/watch?v=YXPyB4XeYLA #
 
 from tkinter import *
 
