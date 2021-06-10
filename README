@@ -1,0 +1,6 @@
+This repository contains 2 files:
+- curso_calculadora_1.py
+- setup.py
+
+The first file contains the code to the calculator, using TKINTER lib.
+The second file, "setup.py" generates the executable for the calculator and a installation file
